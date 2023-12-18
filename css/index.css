@@ -360,7 +360,8 @@ body{
     justify-content: center;
     position: absolute;
     top: 1100px;
-    left: 582px;
+    left: 50%; /* Set left to 50% to center horizontally */
+    transform: translateX(-50%); /* Move the element back by 50% of its width */
     color: #D2B48C;
     font-weight: bold;
     font-style: italic;
