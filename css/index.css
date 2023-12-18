@@ -356,8 +356,6 @@ body{
 }
 
 .check3{
-    display: flex;
-    justify-content: center;
     position: absolute;
     top: 1100px;
     left: 50%;
